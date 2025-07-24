@@ -36,12 +36,13 @@
         <value>זה לא מצוין</value>
     </data>
     <data name="Warm" xml:space="preserve">
-        <value>זה לא מצוין</value>
+        <value>זה לא מצוין</value
     </data>
     <data name="Welcome" xml:space="preserve">
         <value>שלום לכולם</value>
     </data>
     <data name="Hello, world!" xml:space="preserve">
+
         <value>שלום לגאַנצע וועלט</value>
     </data>
     <data name="Balmy" xml:space="preserve">
